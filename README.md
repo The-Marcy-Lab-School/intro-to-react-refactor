@@ -44,7 +44,7 @@ const users = [
 ]
 ```
 
-Your `CardContainer` component should render a `Card` for each user. Think about what iterator method you'll want to use. Do not hard code the number of `Card`s. If the length of the `users` array changes, then `CardContainer` should render more or less `Card` components respectively. Finally, the `CardContainer` component shoudl be _rendered by_ the `App` component.
+Your `CardContainer` component should render a `Card` for each user. Think about what iterator method you'll want to use. Do not hard code the number of `Card`s. If the length of the `users` array changes, then `CardContainer` should render more or less `Card` components respectively. Finally, the `CardContainer` component should be _rendered by_ the `App` component.
 
 ## Component Hierarchy
 
