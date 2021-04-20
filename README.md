@@ -27,7 +27,7 @@ It should display an unordered list of page links. Again, make sure `NavBar` liv
 
 ### Card
 
-Re-create the `Card` component from your last lab. A `Card` takes in the following props: `level` (number), `points` (number), `image` (string) and `name` (string). It should live in its own file and display information basked on [this mockup](https://github.com/The-Marcy-Lab-School/review-8_0/blob/master/card.png).
+Re-create the `Card` component from your last lab. A `Card` should display the following data dynamically: `level` (number), `points` (number), `image` (string) and `name` (string). It should live in its own file and display information based on [this mockup](https://github.com/The-Marcy-Lab-School/review-8_0/blob/master/card.png).
 
 
 ### CardContainer
