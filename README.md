@@ -4,7 +4,7 @@ For this exercise, you'll be practicing using `create-react-app` as a scaffoldin
 
 ## Set Up
 
-Following the [Create React App Instructions](https://reactjs.org/docs/create-a-new-react-app.html) to create a new react project. Open the project in a code editor and inspect the `package.json`. Pay special attention to the scripts (`npm start`) and which dependencies were downloaded. Examine the other files in the project. There may be some your are not familiar with, and that's ok. Pay special attention to `index.js`.
+Following the [Create React App Instructions](https://reactjs.org/docs/create-a-new-react-app.html) to create a new react project. Open the project in a code editor and inspect the `package.json`. Pay special attention to the scripts (`npm start`) and which dependencies were downloaded. Examine the other files in the project. There may be some code your are not familiar with, and that's ok. Pay special attention to `index.js`.
 
 ## Creating Components
 
