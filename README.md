@@ -37,7 +37,7 @@ In React, it's often useful to create **Container Components**, a component whos
 Create a `CardContainer` component which lives in it's own file. In your `CardContainer.js`, create an array of `users` where each user has a name, image, level, and points. Feel free to copy the example below into your code:
 
 ```js
-[
+const users = [
   {name: "Helen Doe", image: "https://semantic-ui.com/images/avatar/large/helen.jpg", level: 4, points: 2435}, 
   {name: "Daniel Rodriguez", image: "https://semantic-ui.com/images/avatar/large/daniel.jpg", level: 13, points: 5235}, 
   {name: "Joe Jones", image: "https://semantic-ui.com/images/avatar/large/joe.jpg", level: 20, points: 10513}
