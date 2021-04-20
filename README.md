@@ -12,7 +12,7 @@ Your starter code renders an `App` component. You will be creating all other com
 
 ### Header
 
-Re-create the `Header` component from your last lab. A `Header` takes in a prop of `title` and should renders that title as an `h1` tag. Make sure the `Header` component lives in its own file. Finally, your `App` component should render a `Header` (pass any title you want).
+Re-create the `Header` component from your last lab. A `Header` takes in a prop of `title` and should render that title as an `h1` tag. Make sure the `Header` component lives in its own file. Finally, your `App` component should render a `Header` (pass any title you want).
 
 ### NavBar
 
