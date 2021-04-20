@@ -34,7 +34,7 @@ Re-create the `Card` component from your last lab. A `Card` takes in the followi
 
 In React, it's often useful to create **Container Components**, a component whose sole purpose is to contain other components. **Presentational Components** on the other hand are uses to display things. You can read about [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) here.
 
-Create a `CardContainer` component which lives in it's own file. In your `CardContainer.js`, create an array of `users` where each use has a name, image, level, and points. Feel free to copy the example below into your code:
+Create a `CardContainer` component which lives in it's own file. In your `CardContainer.js`, create an array of `users` where each user has a name, image, level, and points. Feel free to copy the example below into your code:
 
 ```js
 [
