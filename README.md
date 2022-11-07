@@ -1,6 +1,6 @@
 # Intro to React Simple Refactor Lab
 
-For this exercise, you'll be practicing using `create-react-app` as a scaffolding toolchain. You'll be using the components your created last lab. 
+For this exercise, you'll be practicing using `create-react-app` as a scaffolding toolchain. You'll be using the components you created last lab. 
 
 ## Set Up
 
